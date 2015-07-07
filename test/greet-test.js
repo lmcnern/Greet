@@ -11,4 +11,3 @@ describe('greet.js', function() {
     expect(goodbye('Susie')).eql('Goodbye, Susie!');
   });
 });
-
