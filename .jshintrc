@@ -1,0 +1,9 @@
+{
+  "es3": false,
+  "undef": true,
+  "unused": true,
+  "predef": [ "MY_GLOBAL" ],
+  "node": true,
+  "expr": true,
+  "mocha": true
+}
